@@ -1,0 +1,10 @@
+{"customer_id": "C001", "name": "Alice Kim", "email": "alice@example.com", "city": "Seoul", "age": 32, "address": {"street": "123 Gangnam-daero", "zip": "06100"}}
+{"customer_id": "C002", "name": "Bob Lee", "email": "bob@example.com", "city": "Busan", "age": 28, "address": {"street": "456 Haeundae-ro", "zip": "48094"}}
+{"customer_id": "C003", "name": "Carol Park", "email": "carol@example.com", "city": "Incheon", "age": 35, "address": {"street": "789 Songdo-daero", "zip": "21990"}}
+{"customer_id": "C004", "name": "Dave Choi", "email": "dave@example.com", "city": "Daegu", "age": 41, "address": {"street": "321 Dongdaegu-ro", "zip": "41520"}}
+{"customer_id": "C005", "name": "Eve Jung", "email": "eve@example.com", "city": "Daejeon", "age": 27, "address": {"street": "654 Yuseong-daero", "zip": "34051"}}
+{"customer_id": "C006", "name": "Frank Yoon", "email": "frank@example.com", "city": "Gwangju", "age": 38, "address": {"street": "987 Buk-ro", "zip": "61480"}}
+{"customer_id": "C007", "name": "Grace Han", "email": "grace@example.com", "city": "Seoul", "age": 25, "address": {"street": "111 Mapo-daero", "zip": "04100"}}
+{"customer_id": "C008", "name": "Henry Oh", "email": "henry@example.com", "city": "Suwon", "age": 44, "address": {"street": "222 Gwonson-ro", "zip": "16499"}}
+{"customer_id": "C009", "name": "Iris Shin", "email": "iris@example.com", "city": "Seoul", "age": 31, "address": {"street": "333 Jongno-gu", "zip": "03044"}}
+{"customer_id": "C010", "name": "Jack Lim", "email": "jack@example.com", "city": "Jeju", "age": 36, "address": {"street": "444 Nohyeong-ro", "zip": "63088"}}
