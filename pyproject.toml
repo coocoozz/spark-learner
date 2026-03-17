@@ -1,0 +1,17 @@
+[project]
+name = "spark-learner"
+version = "0.1.0"
+description = "PySpark 3.5.3 체계적 학습을 위한 문제 기반 TDD 프로젝트"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "pyspark==3.5.3",
+    "pytest>=7.0",
+    "faker>=20.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["modules"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
