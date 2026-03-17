@@ -1,0 +1,11 @@
+product_id,name,category,price,stock
+P010,Laptop Pro 15,Electronics,1200.00,50
+P020,Cotton T-Shirt,Clothing,42.75,200
+P030,Python Programming Guide,Books,29.99,150
+P040,Wireless Headphones,Electronics,225.00,80
+P050,Organic Granola Mix,Food,8.80,300
+P060,Denim Jacket,Clothing,120.00,75
+P070,Data Science Handbook,Books,45.00,120
+P080,Greek Yogurt Pack,Food,7.50,250
+P090,Smartphone X12,Electronics,899.00,60
+P100,Mixed Nuts 500g,Food,16.95,180
